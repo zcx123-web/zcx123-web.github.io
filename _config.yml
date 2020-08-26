@@ -1,6 +1,6 @@
 
 title: 咱俊哥最帅 #Your awesome title
-email: example@qq.com #youremail@domain.com
+email: #youremail@domain.com
 description: > # this means to ignore newlines until "baseurl"
    这是献给帅哥的博客，作为七夕节的礼物
 baseurl: "" # the subpath of the site 用于指定网站根目录
