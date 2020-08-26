@@ -1,6 +1,6 @@
 
 title: 咱俊哥最帅 #Your awesome title
-email: #youremail@domain.com
+email: example@qq.com #youremail@domain.com
 description: > # this means to ignore newlines until "baseurl"
    这是献给帅哥的博客，作为七夕节的礼物
 baseurl: "" # the subpath of the site 用于指定网站根目录
@@ -18,7 +18,7 @@ user:
   name: 小白的博客
   pic: /assets/img/cat.jpg
   picAlt: "catbook"
-  job: a category-centric theme
+  job: my firt test blog
   aboutme: true # comment this out if you don't need the 'about' page.
 
 exclude:
